@@ -1,4 +1,4 @@
-最后更新日期：2023-06-04
+最后更新日期：2023-06-09
 
 
 
@@ -46,6 +46,7 @@
 
 
 +++++ +++++   教育   +++++ +++++
+	https://qiaochenglei.cn/			毛选在线看 (毛泽东选集)
 	https://starshineee.github.io/			『Starshineee 的个人博客 | 』		2023-01-20
 	https://github.com/shengcaishizhan/kkndme_tianya			『shengcaishizhan/kkndme_tianya: 天涯 kkndme 神贴聊房价』		2023-01-20
 	https://survivesjtu.gitbook.io/			『README - SurviveSJTUManual』		2022-08-28
@@ -122,6 +123,8 @@
 
 
 +++++ +++++   计算机   +++++ +++++
+	https://risingstars.js.org/
+	https://github.com/LearningOS
 	https://techiedelight.com/
 	https://css-tricks.com/
 	https://java.isture.com/			Java学习笔记 学习笔记 & 工作总结
@@ -624,6 +627,7 @@
 	https://mitpress.mit.edu/sites/default/files/sicp/index.html			『Welcome to the SICP Web Site』		2022-07-07
 	https://cs50.harvard.edu/college/2022/spring/			『CS50』		2022-07-06
 ->-+-   GitHub Repository   -+-<-
+	https://github.com/zhangsanlzh/Solutions
 	https://github.com/preservim/vim-markdown
 	https://github.com/woai3c/introduction-to-front-end-engineering
 	https://github.com/qianguyihao/Web
@@ -947,6 +951,7 @@
 	https://ld246.com/			『链滴』
 	https://pediy.com/			『看雪学院-安全培训|安全招聘|www.kanxue.com』
 ->-+-   计算机-教程   -+-<-
+	https://github.com/judasn/IntelliJ-IDEA-Tutorial
 	https://github.com/CatOneTwo/GitHub-Tutorial			GitHub 入门教程
 	https://rustwiki.org/			rust 中文教程
 	https://beej.us/			Beej's Quick Guide to GDB
@@ -1076,6 +1081,7 @@
 
 
 +++++ +++++   工具   +++++ +++++
+	https://tool.liumingye.cn/
 	https://qixintong.cn/
 	https://pdfpai.com/			<标签>#格式转换 </标签>
 	https://exception.site/			<标签>#破解激活 </标签>JetBrains 全家桶破解激活
@@ -1373,7 +1379,7 @@
 
 
 +++++ +++++   其他   +++++ +++++
-	https://marxists.org/			毛泽东选集
+	https://marxists.org/			毛选 (毛泽东选集)
 	https://typst.app/
 	http://pggho.com
 	https://iui.su/
