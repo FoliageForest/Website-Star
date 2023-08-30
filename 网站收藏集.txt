@@ -1,4 +1,4 @@
-最后更新日期：2023-07-01
+最后更新日期：2023-08-27
 
 
 
@@ -46,10 +46,12 @@
 
 
 +++++ +++++   教育   +++++ +++++
+	https://sustech-application.com/			『南方科技大学飞跃手册』
+	https://github.com/totoroyyw/USTC.Courses.Resource			『totoroyyw/USTC.Courses.Resource: :heart:中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/)』
 	https://qiaochenglei.cn/			毛选在线看 (毛泽东选集)
 	https://starshineee.github.io/			『Starshineee 的个人博客 | 』		2023-01-20
 	https://github.com/shengcaishizhan/kkndme_tianya			『shengcaishizhan/kkndme_tianya: 天涯 kkndme 神贴聊房价』		2023-01-20
-	https://survivesjtu.gitbook.io/			『README - SurviveSJTUManual』		2022-08-28
+	https://survivesjtu.gitbook.io/			CS自救指北『README - SurviveSJTUManual』		2022-08-28
 	https://xuetangx.com/			『学堂在线 - 精品在线课程学习平台』		2022-08-18
 	https://coursera.org/			『Coursera | Online Courses &amp; Credentials From Top Educators. Join for Free』		2022-08-08
 	https://www.icourses.cn/			『爱课程』		2022-06-16
@@ -81,10 +83,11 @@
 	https://www.linkresearcher.com/			『领研网 - 专注学术传播与科研招聘【唯一官方网站】』
 	http://www.shuren100.com/Home/News/index/id/4.html			中学生数理化杂志在线看『新闻列表 - 河南教育宣传网』
 	https://www.esl-lab.com/			英语学习『Randall's ESL Cyber Listening Lab - English Listening』
+	https://github.com/HarborLibrary/Political-Science			『』
 ->-+-   古文   -+-<-
-	https://ctext.org/			<标签>#古文 </标签>
+	https://ctext.org/			<标签>#古文 </标签>测试字体显示 下载古文用字(字体文件)『』
 	https://wyw.hwxnet.com/			<标签>#古文 </标签>
-	https://zdic.net/			<标签>#古文 </标签>
+	https://zdic.net/			<标签>#古文 </标签>现代词语、字典、古文查字
 	https://www.gushiwen.cn/			<标签>#古文 </标签>
 ->-+-   公开课   -+-<-
 	https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/			『Single Variable Calculus | Mathematics | MIT OpenCourseWare』		2022-09-11
@@ -123,6 +126,10 @@
 
 
 +++++ +++++   计算机   +++++ +++++
+	https://github.com/sast-summer-training-2023/sast-summer-training-2023.github.io
+	https://supes.top/
+	https://acmer.info/			大量相关QQ群『ACMer.info』
+	https://github.com/ustcwpz/USTC-CS-Courses-Resource			『ustcwpz/USTC-CS-Courses-Resource: USTC计算机学院课程资源』
 	https://phil-opp.com/			『Writing an OS in Rust』
 	https://risingstars.js.org/
 	https://github.com/LearningOS
@@ -550,7 +557,6 @@
 	https://yunliyunwai.cn/			云里云外开源社区
 	https://runoob.com/			『菜鸟教程 - 学的不仅是技术，更是梦想！』
 	https://cppreference.com/			C/C++参考网站『cppreference.com』		2023-02-04
-	https://learncpp.com/			『Learn C++』		2022-08-30
 	https://cplusplus.com/			『cplusplus.com - The C++ Resources Network』
 	https://tutorialspoint.com/			关于计算机的教程(划到网页后半部分)『RxJS, ggplot2, Python Data Persistence, Caffe2, PyBrain, Python Data Access, H2O, Colab, Theano, Flutter, KNime, Mean.js, Weka, Solidity』
 	https://github.com/fffaraz/awesome-cpp			『fffaraz/awesome-cpp: A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.』
@@ -628,6 +634,9 @@
 	https://mitpress.mit.edu/sites/default/files/sicp/index.html			『Welcome to the SICP Web Site』		2022-07-07
 	https://cs50.harvard.edu/college/2022/spring/			『CS50』		2022-07-06
 ->-+-   GitHub Repository   -+-<-
+	https://github.com/alist-org/alist
+	https://github.com/binary-husky/gpt_academic
+	https://github.com/jawil/blog
 	https://github.com/kovidgoyal/calibre
 	https://github.com/zhangsanlzh/Solutions
 	https://github.com/preservim/vim-markdown
@@ -818,6 +827,13 @@
 	https://oulucloud.com/			『歐路雲 - 高防禦雲服務器|美国|加拿大|香港|新加坡|法國VPS|免費虛擬主機|海外VPS|海外服務器|VPS服務器|KVM服務器.』		2021-08-10
 	https://ypyun.top/			『斯故の月抛商店』		2021-08-10
 ->-+-   计算机-个人博客   -+-<-
+	https://blog.liuly.moe/			cs61a课程笔记
+	https://assassins-white.github.io/
+	https://fanpu.io/
+	https://junmajinlong.com/
+	https://github.com/CyC2018/CS-Notes
+	https://cyc2018.xyz/
+	http://xidaner.blog.ffffffff0x.com/
 	https://www.cnblogs.com/lanhaicode/
 	https://celthi.github.io/
 	https://www.cnblogs.com/xdp-gacl/			cs61abc群助教哥推荐的技术博客
@@ -935,6 +951,7 @@
 	https://shadowsocks.org/			『Shadowsocks - A fast tunnel proxy that helps you bypass firewalls』		2021-07-31
 	https://doubi.us/			『逗比翻墙网 - 世界那么逗，我想翻墙看看』
 ->-+-   计算机-论坛   -+-<-
+	http://bbs.eastsea.com.cn/			『东海手机维修论坛 - 专业手机售后维修/刷机ROM包/教程/图纸 』
 	https://mirai.mamoe.net/			QQ聊天机器人『主页 | MiraiForum』		2023-02-28
 	https://jike.info/			『讨论区 | JIKE』		2023-01-08
 	https://www.dmzshequ.com/			『IT学习网-一个最新前沿实用的IT技术学习网站-专注于IT学习资源分享的社区-dmz社区』		2023-01-08
@@ -956,6 +973,13 @@
 	https://ld246.com/			『链滴』
 	https://pediy.com/			『看雪学院-安全培训|安全招聘|www.kanxue.com』
 ->-+-   计算机-教程   -+-<-
+	https://github.com/PansonPanson/Java-Notes
+	https://docs.net9.org/			『计算机系学生科协技能引导文档 - SAST skill docs』
+	https://github.com/SAST-skill-docers/sast-skill-docs
+	https://teachyourselfcs.com/			『Teach Yourself Computer Science』
+	https://hdu-cs.wiki/			HDU计算机科学讲义『HDU-CS-WIKI | HDU-CS-WIKI』
+	https://hackingcpp.com/			cs61abc群友推荐『Learn Contemporary C++ | Concise&amp;Visual Examples | hacking C++』		2023-07-08
+	https://learncpp.com/			cs61abc群友推荐『Learn C++』		2022-08-30
 	https://backlog.com/git-tutorial/cn/			<标签>#Git版本控制 </标签>『猴子都能懂的GIT入门 | 贝格乐（Backlog）』
 	https://github.com/judasn/IntelliJ-IDEA-Tutorial
 	https://github.com/CatOneTwo/GitHub-Tutorial			GitHub 入门教程
@@ -1087,6 +1111,12 @@
 
 
 +++++ +++++   工具   +++++ +++++
+	https://chat.baidu.com/
+	https://chatglm.cn/			『智谱清言』
+	https://sci-hub.live/#			『Sci-Hub: 将知识带给每个人』
+	https://www.allhistory.com/			古籍阅读、历史人物关系图谱『全历史』
+	https://sms-activate.org/
+	https://ffffffff0x.com/
 	https://emosys.cn/			<标签>#免费下载 #Windows镜像下载 </标签>
 	https://mydigitallife.net/			FORUMS 有 win 的系统激活工具
 	https://1kbtool.com/			使用 IPFS CID 下载
@@ -1120,7 +1150,7 @@
 	https://sagemath.org/			『SageMath - Open-Source Mathematical Software System』		2022-12-22
 	https://zybuluo.com/			『Cmd Markdown 编辑阅读器 - 作业部落出品』		2022-12-21
 	https://github.com/nilaoda/BBDown			『nilaoda/BBDown: Bilibili Downloader. 一款命令行式哔哩哔哩下载器.』		2022-12-07
-	https://landiannews.com			office tool plus 入口『蓝点网 - 给你感兴趣的内容』		2022-12-01
+	https://landiannews.com			<标签>#Windows激活</标签>Windows激活软件下载 office tool plus 入口『蓝点网 - 给你感兴趣的内容』		2022-12-01
 	https://dupeguru.voltaicideas.net/			『dupeGuru |&nbsp;finds duplicate files』		2022-12-01
 	https://yibook.org/			『YiBook Project 易书计划』		2022-11-30
 	https://command-not-found.com/			『command-not-found.com』		2022-11-24
@@ -1245,6 +1275,9 @@
 	https://pan.naifei.cc/new/			百度网盘不限速下载『度云简易分享地址提取』
 	https://runine.cn/			百度网盘不限速下载『歪果不求仁』
 ->-+-   ChatGPT   -+-<-
+	https://cc.ai55.cc/			<标签>#ChatGPT </标签>『Free ChatGPT Site List- 这儿为你准备了众多免费好用的ChatGPT镜像站点』
+	https://github.com/xx025/carrot			<标签>#ChatGPT </标签>『xx025/carrot: Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点』
+	https://monica.im/			<标签>#ChatGPT </标签>每天免费 30 次
 	https://poe.com/			<标签>#ChatGPT </标签>
 	https://github.com/LiLittleCat/awesome-free-chatgpt
 	https://chat.rclilong.tk/
@@ -1253,6 +1286,7 @@
 	https://fastgpt.app/			免费使用 ChatGPT
 	https://freegpt.one/			免费使用 ChatGPT
 ->-+-   系统维护   -+-<-
+	https://sourceforge.net/projects/win32diskimager/
 	https://www.myoxygen.com.cn/
 	https://next.itellyou.cn/
 	https://latest10.win/
@@ -1294,6 +1328,7 @@
 	http://bbs.wuyou.net/			『论坛 -  无忧启动论坛 -  Powered by Discuz!』		2022-11-10
 	http://duzhitu.com/			不限于儿童早教『读知兔 - 儿童早教资源免费下载 - Powered by Discuz!』		2021-08-09
 ->-+-   电子书   -+-<-
+	https://zhishikoo.com/			<标签>#电子书下载 #免费下载 </标签>
 	https://zlibsearch.1kbtool.com/			<标签>#电子书下载 #免费下载 </标签>获取书籍的 IPFS CID 提供 IPFS 下载链接
 	https://xueshu86.com/			<标签>#电子书下载 </标签>电子书下载(付费)
 	https://xmsoushu.com/			电子书下载站导航
@@ -1324,6 +1359,7 @@
 	https://www.wangzhanchi.com/			『网站目录_分类目录_网站大全__国内外网址大全应有尽有 - 网站池』
 	https://chinag.pro/			『ChinaG.PRO - 学习网址导航』
 ->-+-   软件下载   -+-<-
+	https://nite07.com/			<标签>#免费下载</标签>破解软件下载
 	https://mac.macxf.com/
 	https://soft.macxf.com/
 	https://web.distry.cn/			『温鑫Sys_全网最纯净Windows系统下载平台』		2022-12-30
@@ -1355,6 +1391,10 @@
 
 
 +++++ +++++   娱乐   +++++ +++++
+	https://ymck.vip/			『影猫の仓库 | 地址发布页！』
+	https://ymck.xyz/			『影猫の仓库 | 免费观影第一站！』
+	https://dxmwx.org/
+	https://gequbao.com/			<标签>#免费下载 </标签>音乐免费下载『歌曲宝-找歌就用歌曲宝-MP3音乐高品质在线免费下载』
 	https://www.dmla1.com/
 	https://www.at-x.com/			『AT-X ワンランク上のアニメ専門チャンネル』		2023-01-13
 	https://sflix.to/			『SFlix | Watch HD Movies Online Free | TV Series &amp; Stream Live』		2022-12-30
@@ -1390,6 +1430,14 @@
 
 
 +++++ +++++   其他   +++++ +++++
+	https://chachaji.cn/			『爱国者网-爱国者的聚集地』
+	https://github.com/SurviveSJTU/SurviveSJTUManual			『SurviveSJTU/SurviveSJTUManual: 更新2008年版本的《上海交通大学生存手册》gitbook发布于https://survivesjtu.gitbook.io/survivesjtumanual/』
+	https://survivesjtu.github.io/SJTU-Application/			『SJTU-Application』
+	https://github.com/SUSTech-Application/2019-Fall			『SUSTech-Application/2019-Fall: https://SUSTech-Application.github.io/2019-Fall』
+	https://sustech-application.github.io/2019-Fall/			『SUSTech-Application-2019-Fall』
+	https://github.com/SUSTech-Application/SUSTechapplication			『SUSTech-Application/SUSTechapplication: 南方科技大学飞跃手册同步仓库』
+	https://sustc.wiki/			『南科wiki』
+	https://sustech.online/			『📚南科手册 | 南科手册』
 	https://transferwiki.com/
 	https://marxists.org/			毛选 (毛泽东选集)
 	https://typst.app/
@@ -1483,6 +1531,6 @@
 
 
 
-标签: #镜像站 #Linux命令 #ChatGPT #破解激活 #格式转换 #古文 #电子书下载 #免费下载 #Windows镜像下载 #Git版本控制
+标签: #镜像站 #Linux命令 #ChatGPT #破解激活 #格式转换 #古文 #电子书下载 #免费下载 #Windows镜像下载 #Git版本控制 #Windows激活 #Sci-Hub
 
 <标签>#镜像站 #Linux命令 #ChatGPT</标签>
