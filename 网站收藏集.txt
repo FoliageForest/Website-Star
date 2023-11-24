@@ -1,4 +1,4 @@
-最后更新日期：2023-08-27
+最后更新日期：2023-10-28
 
 
 
@@ -46,6 +46,9 @@
 
 
 +++++ +++++   教育   +++++ +++++
+	https://www.yuque.com/guigumentor
+	https://lib-hfut.github.io/lib-hfut/
+	https://ckc-agc.bowling233.top/			『欢迎来到竺院辅学计划网站 - 浙江大学竺可桢学院辅学计划站点』
 	https://sustech-application.com/			『南方科技大学飞跃手册』
 	https://github.com/totoroyyw/USTC.Courses.Resource			『totoroyyw/USTC.Courses.Resource: :heart:中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/)』
 	https://qiaochenglei.cn/			毛选在线看 (毛泽东选集)
@@ -126,6 +129,17 @@
 
 
 +++++ +++++   计算机   +++++ +++++
+	https://programmercarl.com/
+	https://note.tonycrane.cc/
+	https://zju-sec.github.io/os23fall-stu/
+	https://github.com/flarum/flarum
+	https://admx.help/
+	https://openwrt.org/
+	https://www.jannet.hk/
+	https://chatgpt-plus.github.io/
+	https://oschina.gitee.io/opensource-guide/
+	https://github.com/BeiMeng1998/Web
+	https://github.com/BeiMeng1998/Note
 	https://github.com/sast-summer-training-2023/sast-summer-training-2023.github.io
 	https://supes.top/
 	https://acmer.info/			大量相关QQ群『ACMer.info』
@@ -562,6 +576,7 @@
 	https://github.com/fffaraz/awesome-cpp			『fffaraz/awesome-cpp: A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.』
 	https://calibre-ebook.com/			软件『calibre - 电子书管理』
 ->-+-   计算机公开课   -+-<-
+	https://github.com/nwuzmedoutlook/university
 	https://pwn.college/
 	https://github.com/PKU-TANGENT/nlp-tutorial
 	https://web.stanford.edu/class/cs197/
@@ -634,6 +649,9 @@
 	https://mitpress.mit.edu/sites/default/files/sicp/index.html			『Welcome to the SICP Web Site』		2022-07-07
 	https://cs50.harvard.edu/college/2022/spring/			『CS50』		2022-07-06
 ->-+-   GitHub Repository   -+-<-
+	https://github.com/chloneda/vim-cheatsheet
+	https://github.com/ZJU-SEC/os23fall-stu
+	https://github.com/dz2904/Linux
 	https://github.com/alist-org/alist
 	https://github.com/binary-husky/gpt_academic
 	https://github.com/jawil/blog
@@ -783,7 +801,7 @@
 	https://github.com/blynn/gitmagic			A guide to using Git | 英语Git教程(带中文翻译) by FoliageForest		2022-03-14
 	https://github.com/yutto-dev/yutto			B站视频下载器yutto		2022-03-12
 	https://github.com/yutto-dev/bilili			bilili - B 站视频下载器		2022-03-12
-	https://github.com/XIU2/TrackersListCollection			BitTorrent Tracker 列表		2022-03-01
+	https://github.com/XIU2/TrackersListCollection			<标签>#Tracker </标签>BitTorrent Tracker 列表		2022-03-01
 	https://github.com/agalwood/Motrix					2022-02-28
 	https://github.com/goldendict/goldendict/					2022-02-27
 	https://github.com/BLKSerene/Wordless					2022-02-27
@@ -827,6 +845,10 @@
 	https://oulucloud.com/			『歐路雲 - 高防禦雲服務器|美国|加拿大|香港|新加坡|法國VPS|免費虛擬主機|海外VPS|海外服務器|VPS服務器|KVM服務器.』		2021-08-10
 	https://ypyun.top/			『斯故の月抛商店』		2021-08-10
 ->-+-   计算机-个人博客   -+-<-
+	https://droidyue.com/
+	https://toutoudnf.github.io/
+	https://xuan-insr.github.io/
+	https://zhanglonglong12.gitee.io/
 	https://blog.liuly.moe/			cs61a课程笔记
 	https://assassins-white.github.io/
 	https://fanpu.io/
@@ -924,6 +946,7 @@
 	https://linuxstudy.cn/			『Linux Study』
 	https://blog.lvcshu.com/			『johnpoint's blog』
 ->-+-   Linux   -+-<-
+	https://gnu-linux.readthedocs.io/			『GNU/Linux 点滴 &mdash; Linux latest 文档』
 	https://linuxhint.com/			『Linux Hint』		2022-11-11
 	https://shellscript.readthedocs.io/			Shell编程		2022-02-21
 	https://codetoolchains.readthedocs.io/			CodeToolchains’s documentation    FoliageForest:Git、Linux、Shell等		2022-02-21
@@ -942,6 +965,7 @@
 	https://manpages.debian.org/buster/manpages-zh/index.html			Linux命令『Manpages of manpages-zh in Debian buster — Debian Manpages』		2021-08-18
 	https://man.zlon.org/buster/manpages-zh/index.html			Linux命令『Manpages of manpages-zh in Debian buster — Debian Manpages』		2021-08-18
 ->-+-   翻墙   -+-<-
+	https://bulianglin.com/			『科学上网 技术分享 - 不良林』		2023-09-21
 	https://duangks.com/			『性价比机场测速 - by Duang』		2023-02-01
 	https://docs.reiz.link/			『目录』		2022-09-08
 	https://haoel.github.io/			科学上网教程		2022-02-16
@@ -973,6 +997,7 @@
 	https://ld246.com/			『链滴』
 	https://pediy.com/			『看雪学院-安全培训|安全招聘|www.kanxue.com』
 ->-+-   计算机-教程   -+-<-
+	https://wizardforcel.gitbooks.io/daxueba-kali-linux-tutorial/content/index.html			大学霸 Kali Linux 安全渗透教程
 	https://github.com/PansonPanson/Java-Notes
 	https://docs.net9.org/			『计算机系学生科协技能引导文档 - SAST skill docs』
 	https://github.com/SAST-skill-docers/sast-skill-docs
@@ -1111,6 +1136,15 @@
 
 
 +++++ +++++   工具   +++++ +++++
+	https://www.ui.cn/
+	https://ifconfig.me/			查看我的公网 IP 地址
+	https://www.emule-project.com/
+	https://github.com/c0re100/qBittorrent-Enhanced-Edition
+	https://ipleak.net/
+	https://xbeibeix.com/
+	https://mobaxterm.mobatek.net/
+	https://snipaste.com/
+	https://faststone.org/
 	https://chat.baidu.com/
 	https://chatglm.cn/			『智谱清言』
 	https://sci-hub.live/#			『Sci-Hub: 将知识带给每个人』
@@ -1196,7 +1230,6 @@
 	https://devtoolcafe.com/			『Developer's Toolkit』		2022-07-07
 	https://diskgenius.cn/			『数据恢复软件,硬盘分区工具,系统备份软件 - DiskGenius官方网站』		2022-07-04
 	https://keepassxc.org/			『KeePassXC Password Manager』		2022-07-01
-	http://kuyoukkk.xyz/			网课代看代刷		2022-06-26
 	https://dir.scmor.com/			『全渠道搜索_思谋上网导航』		2022-06-21
 	https://termonline.cn/			『术语在线—权威的术语知识服务平台』		2022-06-15
 	https://fontforge.org/			『FontForge Open Source Font Editor』		2022-05-25
@@ -1211,7 +1244,6 @@
 	https://vip.test686.cf/			『vip视频解析 By 2096779623』		2022-03-27
 	https://github.com/huanghongxun/HMCL					2022-03-21
 	https://hmcl.huangyuhui.net/			免费、开源的 Minecraft 启动器 | 『Hello Minecraft! Launcher』		2022-03-21
-	https://hanbai.hocx.xyz/			知到代刷课		2022-03-20
 	https://www.newxitong.com/			『专注于Win7 - 致力于做最好用的win7系统【吻妻官网】』		2022-03=19
 	https://www.caam.rice.edu/~heinken/latex/symbols.pdf			LATEX Mathematical Symbols		2022-03-17
 	https://aidlux.com/			AidLux 官网		2022-03-14
@@ -1286,6 +1318,7 @@
 	https://fastgpt.app/			免费使用 ChatGPT
 	https://freegpt.one/			免费使用 ChatGPT
 ->-+-   系统维护   -+-<-
+	https://www.pc528.net/
 	https://sourceforge.net/projects/win32diskimager/
 	https://www.myoxygen.com.cn/
 	https://next.itellyou.cn/
@@ -1328,6 +1361,7 @@
 	http://bbs.wuyou.net/			『论坛 -  无忧启动论坛 -  Powered by Discuz!』		2022-11-10
 	http://duzhitu.com/			不限于儿童早教『读知兔 - 儿童早教资源免费下载 - Powered by Discuz!』		2021-08-09
 ->-+-   电子书   -+-<-
+	http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/			<标签>#电子书下载 #免费下载 </标签>『Z-Library Project』
 	https://zhishikoo.com/			<标签>#电子书下载 #免费下载 </标签>
 	https://zlibsearch.1kbtool.com/			<标签>#电子书下载 #免费下载 </标签>获取书籍的 IPFS CID 提供 IPFS 下载链接
 	https://xueshu86.com/			<标签>#电子书下载 </标签>电子书下载(付费)
@@ -1359,9 +1393,10 @@
 	https://www.wangzhanchi.com/			『网站目录_分类目录_网站大全__国内外网址大全应有尽有 - 网站池』
 	https://chinag.pro/			『ChinaG.PRO - 学习网址导航』
 ->-+-   软件下载   -+-<-
+	https://ruancang.net/			<标签>#免费下载</标签>破解软件下载
 	https://nite07.com/			<标签>#免费下载</标签>破解软件下载
-	https://mac.macxf.com/
-	https://soft.macxf.com/
+	https://mac.macxf.com/			<标签>#破解激活 #免费下载 #软件下载 </标签>
+	https://soft.macxf.com/			<标签>#破解激活 #免费下载 #软件下载 </标签>
 	https://web.distry.cn/			『温鑫Sys_全网最纯净Windows系统下载平台』		2022-12-30
 	https://www.yyej.com/			『小冯的小站』		2022-11-18
 	https://423down.com/			vmware 激活密钥 『423Down』		2022-11-18
@@ -1416,6 +1451,7 @@
 	https://bdxzy.com/			电影、动漫『北斗星资源』		2021-07-19
 	https://hobiao.net/			『红标影院-新视觉影院-青苹果影院-在线电影-影视大全』
 ->-+-   漫画   -+-<-
+	https://www.dongman.la/
 	https://bookshop.tw/			漫画购买『bookshop.tw - 購買正版台版漫畫，台灣直郵』		2021-07-21
 	https://vol.moe/			收费『Mox.moe [Kindle漫畫|Kobo漫畫|epub漫畫] [vol.moe]』		2021-07-21
 	https://www.cocomanhua.com/			漫画『斗罗大陆 绝世唐门 斗破苍穹 星武神诀 百炼成神 COCOMANHUA』		2021-07-19
@@ -1430,6 +1466,8 @@
 
 
 +++++ +++++   其他   +++++ +++++
+	http://tb.riyueniao.xyz/			便宜的百度网盘会员
+	https://std.samr.gov.cn/
 	https://chachaji.cn/			『爱国者网-爱国者的聚集地』
 	https://github.com/SurviveSJTU/SurviveSJTUManual			『SurviveSJTU/SurviveSJTUManual: 更新2008年版本的《上海交通大学生存手册》gitbook发布于https://survivesjtu.gitbook.io/survivesjtumanual/』
 	https://survivesjtu.github.io/SJTU-Application/			『SJTU-Application』
@@ -1524,6 +1562,7 @@
 - -   其他-经济-论坛   - -
 	https://bbs.pinggu.org/			『经管之家(原经济论坛)-国内活跃的经济、管理、金融、统计在线教育和咨询网站』		2022-12-04
 ->-+-   论坛   -+-<-
+	https://web3defi.org/
 	https://pincong.rocks/			『新·品葱』		2023-01-11
 	https://1point3acres.com/			『一亩三分地社区: 留学|申请|求职|移民|生活 - 高信噪比 + 纯干货』		2022-08-19
 	https://klpbbs.com/			『Minecraft(我的世界)苦力怕论坛——我的世界下载站，我的世界资源网，我的世界玩家论坛 - Minecraft(我的世界)苦力怕论坛』
@@ -1531,6 +1570,6 @@
 
 
 
-标签: #镜像站 #Linux命令 #ChatGPT #破解激活 #格式转换 #古文 #电子书下载 #免费下载 #Windows镜像下载 #Git版本控制 #Windows激活 #Sci-Hub
+标签: #镜像站 #Linux命令 #ChatGPT #破解激活 #格式转换 #古文 #电子书下载 #免费下载 #软件下载 #Windows镜像下载 #Git版本控制 #Windows激活 #Sci-Hub #Tracker
 
 <标签>#镜像站 #Linux命令 #ChatGPT</标签>
