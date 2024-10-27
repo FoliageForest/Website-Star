@@ -1,4 +1,4 @@
-最后更新日期：2023-10-28
+最后更新日期：2023-12-23
 
 
 
@@ -129,6 +129,7 @@
 
 
 +++++ +++++   计算机   +++++ +++++
+	https://weapp.iviewui.com/
 	https://programmercarl.com/
 	https://note.tonycrane.cc/
 	https://zju-sec.github.io/os23fall-stu/
@@ -845,6 +846,7 @@
 	https://oulucloud.com/			『歐路雲 - 高防禦雲服務器|美国|加拿大|香港|新加坡|法國VPS|免費虛擬主機|海外VPS|海外服務器|VPS服務器|KVM服務器.』		2021-08-10
 	https://ypyun.top/			『斯故の月抛商店』		2021-08-10
 ->-+-   计算机-个人博客   -+-<-
+	https://cshihong.github.io/
 	https://droidyue.com/
 	https://toutoudnf.github.io/
 	https://xuan-insr.github.io/
@@ -997,6 +999,7 @@
 	https://ld246.com/			『链滴』
 	https://pediy.com/			『看雪学院-安全培训|安全招聘|www.kanxue.com』
 ->-+-   计算机-教程   -+-<-
+	https://opensecuritytraining.info/
 	https://wizardforcel.gitbooks.io/daxueba-kali-linux-tutorial/content/index.html			大学霸 Kali Linux 安全渗透教程
 	https://github.com/PansonPanson/Java-Notes
 	https://docs.net9.org/			『计算机系学生科协技能引导文档 - SAST skill docs』
@@ -1136,6 +1139,7 @@
 
 
 +++++ +++++   工具   +++++ +++++
+	https://www.virscan.org/
 	https://www.ui.cn/
 	https://ifconfig.me/			查看我的公网 IP 地址
 	https://www.emule-project.com/
@@ -1426,6 +1430,8 @@
 
 
 +++++ +++++   娱乐   +++++ +++++
+	https://ssz66666.github.io/qfzct-66rpg/			潜伏之赤途
+	https://thebyrut.org/			盗版游戏下载站
 	https://ymck.vip/			『影猫の仓库 | 地址发布页！』
 	https://ymck.xyz/			『影猫の仓库 | 免费观影第一站！』
 	https://dxmwx.org/
