@@ -1322,6 +1322,7 @@
 	https://fastgpt.app/			免费使用 ChatGPT
 	https://freegpt.one/			免费使用 ChatGPT
 ->-+-   系统维护   -+-<-
+	https://github.com/massgravel/Microsoft-Activation-Scripts			windows系统激活
 	https://www.pc528.net/
 	https://sourceforge.net/projects/win32diskimager/
 	https://www.myoxygen.com.cn/
